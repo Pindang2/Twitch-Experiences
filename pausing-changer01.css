@@ -1,0 +1,16 @@
+#pausing {
+    background: url(https://cdn.discordapp.com/attachments/362948388217683971/745958650098483200/TREDECEMBERCHORUS_THIS_GAME_ANIMATION-WORKSPACE_2020-08-20_19.53.03.png);
+  /*이미지를 바꾸셔도 됩니다. 디스코드 본인 채널에 올리신 뒤 이미지 링크를 복사해 위 링크를 바꿔치기하면 되요.
+    다만, 이미지 사이즈는 >>가로 267, 세로 50픽셀을 맞춰주세요<< */
+  
+    width/*(가로)*/: 267px;  height/*(세로)*/: 50px; 
+  /*만약 이미지 사이즈를 바꾸고자 한다면 여기서 바꾸시면 됩니다.
+    세로 길이가 50을 넘어 100정도만 되도 꽤 큽니다. 주의해서 바꿔주세요.
+    이미지를 변경하지 않고 사이즈만 키우시고자 할 때, 가로와 세로 모두 늘려주시면 됩니다.*/
+    
+    filter: hue-rotate(0deg);
+  /*0deg를 조금씩 바꿔가시면서 색을 찾으시면 됩니다. 0deg, 10deg, 20deg...*/
+  
+    opacity: 1;   right: 10px;   top: 10px;   padding: 0;
+    background-repeat: no-repeat;   background-size: auto;
+} #pausing span { display: none; }
