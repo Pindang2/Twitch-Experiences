@@ -17,7 +17,7 @@
 
 # 적용법
 
-- [여기](https://github.com/Pindang2/Twitch-Experiences/blob/master/pausing/pausing-changer01.css)로 가서, CSS 내용을 복사합니다.
+- [여기](https://raw.githubusercontent.com/Pindang2/Twitch-Experiences/master/pausing/pausing-changer01.css)로 가서, CSS 내용을 복사합니다.
 - [Twip 대시보드 -> Alert Box](http://twip.kr/dashboard/alertbox)로 접속합니다.
 - 아래쪽에 '커스텀 CSS'를 입력할 수 있는 공간이 있습니다. 이 곳 맨 아래에 붙여넣기합니다! ![](https://cdn.discordapp.com/attachments/362948388217683971/745990709093466152/unknown.png)
 
